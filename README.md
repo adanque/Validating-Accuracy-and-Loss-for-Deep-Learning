@@ -45,6 +45,6 @@ Using Keras Convolutional Networks for image processing and detection.
 
 ## Results
 
-![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_10.2_Model%20Accuracy%20Validation.png)
-![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_10.3_Model%20Accuracy%20Validation.png)
-![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_10.4_Model%20Accuracy%20Validation.png)
+![A remote image](https://github.com/adanque/Validating-Accuracy-and-Loss-for-Deep-Learning/blob/main/results/model_1/Assignment_10.2_Model%20Accuracy%20Validation.png)
+![A remote image](https://github.com/adanque/Validating-Accuracy-and-Loss-for-Deep-Learning/blob/main/results/model_1/Assignment_10.3_Model%20Accuracy%20Validation.png)
+![A remote image](https://github.com/adanque/Validating-Accuracy-and-Loss-for-Deep-Learning/blob/main/results/model_1/Assignment_10.4_Model%20Accuracy%20Validation.png)
