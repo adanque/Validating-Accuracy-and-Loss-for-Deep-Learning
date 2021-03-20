@@ -2,7 +2,8 @@
 
 ## _Machine and Deep Learning model validation and evaluation strategies_
 
-Author: Alan Danque
+Author: Alan Danque(https://www.linkedin.com/in/alandanque)
+Click here to go back to Portfolio Website(https://adanque.github.io/) 
 
 ![A remote image](https://adanque.github.io/assets/img/MachineLearning.jpg)
 
