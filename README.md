@@ -4,7 +4,7 @@
 
 Author: Alan Danque
 
-![A remote image](https://adanque.github.io/assets/img/KerasConvolutional.jpg)
+![A remote image](https://adanque.github.io/assets/img/MachineLearning.jpg)
 
 Using Keras Convolutional Networks for image processing and detection.
 
