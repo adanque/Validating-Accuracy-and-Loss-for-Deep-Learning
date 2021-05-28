@@ -36,12 +36,12 @@ Using Keras Convolutional Networks for image processing and detection.
 
 | File Name  | Description |
 | ------ | ------ |
-| run_assignment_10.1.a.py | Sentence tokenization and punctuation removal |
-| run_assignment_10.1.b.py | NGram tokenization |
-| run_assignment_10.1.c.py | One hot encode for vectorization from numerical vector |
-| run_assignment_10.2.py | Deep learning using the IMDB dataset using a sequential model and embedding. |
-| run_assignment_10.3.py | Deep learning LSTM for model performance metrics and accuracy validation |
-| run_assignment_10.4.py | LSTM model performance evaluation using tensorflow and keras plotted using matplotlib |
+| run_Sentence_Tokenization_Punctuation_Removal.py | Sentence tokenization and punctuation removal |
+| run_NGram_Tokenization.py | NGram tokenization |
+| run_One_Hot_Encode.py | One hot encode for vectorization from numerical vector |
+| run_Sequential_Embedding.py | Deep learning using the IMDB dataset using a sequential model and embedding. |
+| run_LSTM_metrics.py | Deep learning LSTM for model performance metrics and accuracy validation |
+| run_LSTM_model_eval_TF_Keras.py | LSTM model performance evaluation using tensorflow and keras plotted using matplotlib |
 
 ## Results
 
